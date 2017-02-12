@@ -9,4 +9,4 @@ RUN go install code.simon-critchley.co.uk/server
 
 ENTRYPOINT /go/bin/server
 
-EXPOSE 3000
+EXPOSE 5000
